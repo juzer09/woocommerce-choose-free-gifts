@@ -1,0 +1,25 @@
+.free_gifts table tr td:first-child {
+    font-size: 15px;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+.free_gifts table tr td:last-child span {
+    display: block;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+input.fg_item {
+    height: 30px;
+    font-size: 13px;
+    width: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-right  {
+    text-align: right;
+}
