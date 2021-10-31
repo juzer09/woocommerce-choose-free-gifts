@@ -2,9 +2,9 @@
 
 /**
 * Plugin Name: WooCommerce Choose Free Gifts
-* Plugin URI: https://www.yourwebsiteurl.com/
+* Plugin URI: https://github.com/juzer09/woocommerce-choose-free-gifts
 * Description: This is a plugin for WooCommerce that allows you to choose multiple free gifts for your customers based on your cart Value.
-* Version: 1.0
+* Version: 1.0.1
 * Author: QSD IT Solutions
 * Author URI: https://quickshiftdigital.com/
 **/
